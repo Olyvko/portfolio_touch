@@ -1,1 +1,1 @@
-Maven project
+Web Application Project with Maven
