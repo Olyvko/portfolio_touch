@@ -1,1 +1,1 @@
-cool
+Maven project
